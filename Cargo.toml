@@ -1,5 +1,5 @@
 [package]
-name = "MultiplicationTables"
+name = "multiplication_tables"
 version = "0.1.0"
 authors = ["Dari <Dari@dari.com>"]
 edition = "2018"
